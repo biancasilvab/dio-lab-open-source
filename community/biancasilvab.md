@@ -1,9 +1,9 @@
-## Hi, my name is Bianca ??
+## Hi, my name is Bianca 
 
 I am passionate about technology and criminology. I am a Computer Science student.
 
-- ?? In the future I want to work in cybersecurity
-- ?? I?m currently learning C language and cybersecurity
+-  In the future I want to work in cybersecurity
+-  I'm currently learning C language and cybersecurity
 
 ##
 
